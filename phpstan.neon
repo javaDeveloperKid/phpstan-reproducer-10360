@@ -1,0 +1,7 @@
+parameters:
+	treatPhpDocTypesAsCertain: true
+	level: 8
+	paths:
+		- src
+	featureToggles:
+		bleedingEdge: true
